@@ -6,4 +6,4 @@ Lien vers le form de demande de téléchargement de logiciel:
    
 ![Free_Sample_By_Wix](https://github.com/SOFTWARE-JJP1114STUDIO/calculator/assets/86020351/ebf01bbb-a491-47d0-9b5d-d81e619d7b43)
 
-# 1.0.0.1
+# /releases/tag/v1.0.0.1
